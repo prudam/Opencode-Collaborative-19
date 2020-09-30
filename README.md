@@ -4,7 +4,7 @@
 
 [![OpenCode](https://img.shields.io/badge/Open-Code-ff6a00.svg?style=flat-square)](https://opencode18.github.io)
 
-Chat with us on [Slack](https://opencodeiiita.slack.com)
+Chat with us [Slack](https://opencodeiiita.slack.com)
 
 Join Zulip Chat [Zulip](https://opencode.zulipchat.com/)
 
